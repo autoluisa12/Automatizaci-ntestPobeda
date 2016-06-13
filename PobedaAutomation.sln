@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PobedaAutomation.Tests", "PobedaAutomation.Tests\PobedaAutomation.Tests.csproj", "{7519328C-9E58-446A-8F63-0EF19AAD85D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PobedaAutomation.Selenium", "PobedaAutomation.Selenium\PobedaAutomation.Selenium.csproj", "{57139A86-5B3C-467A-A3C4-A8859432E937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7519328C-9E58-446A-8F63-0EF19AAD85D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7519328C-9E58-446A-8F63-0EF19AAD85D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7519328C-9E58-446A-8F63-0EF19AAD85D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7519328C-9E58-446A-8F63-0EF19AAD85D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57139A86-5B3C-467A-A3C4-A8859432E937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57139A86-5B3C-467A-A3C4-A8859432E937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57139A86-5B3C-467A-A3C4-A8859432E937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57139A86-5B3C-467A-A3C4-A8859432E937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
